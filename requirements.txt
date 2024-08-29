@@ -1,0 +1,4 @@
+opencv-python>=4.8.0.74
+imutils==0.5.4
+scikit-learn==1.2.2
+numpy
